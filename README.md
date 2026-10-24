@@ -53,7 +53,6 @@ Je conçois des applications web complètes, de la base de données jusqu'à l'i
 | [**ÉNANWA**](https://github.com/Luc-Arthur/Projet-Optimisation-Flux-Commandes-B2B-ENANWA) | Plateforme B2B de commandes pour produits artisanaux : API, panneau d'administration et application mobile | Laravel 12 · Filament 4 · Flutter |
 | [**Joshua Cooker**](https://github.com/Luc-Arthur/Projet-Joshua-Cooker-) | Site sur mesure pour un artiste culinaire : portfolio, recettes, événements et back-office complet | Laravel 12 · Livewire 3 · Alpine · GSAP |
 | [**LMS**](https://github.com/Luc-Arthur/lms) | Page de cours e-learning inspirée de Skillshare, rendue côté serveur | Laravel 12 · Blade · Tailwind 4 · Alpine |
-| [**IUM Shine**](https://github.com/Luc-Arthur/IUMP) | Plateforme de vote en ligne pour une remise de prix universitaire | PHP · MySQL · JavaScript |
 
 ---
 
