@@ -50,6 +50,8 @@ Je conçois des applications web complètes, de la base de données jusqu'à l'i
 
 | Projet | Description | Stack |
 | --- | --- | --- |
+| [**Fluxo**](https://github.com/Luc-Arthur/landing-fluxo) · [démo](https://luc-arthur.github.io/landing-fluxo/) | Landing page d'un SaaS financier pour micro-entrepreneurs brésiliens (MEI) | HTML · CSS · JavaScript |
+| [**Navalha Sul**](https://github.com/Luc-Arthur/site-barbearia-navalha-sul) · [démo](https://luc-arthur.github.io/site-barbearia-navalha-sul/) | Site vitrine d'une barbearia avec prise de rendez-vous WhatsApp | HTML · CSS · JavaScript |
 | [**ÉNANWA**](https://github.com/Luc-Arthur/Projet-Optimisation-Flux-Commandes-B2B-ENANWA) | Plateforme B2B de commandes pour produits artisanaux : API, panneau d'administration et application mobile | Laravel 12 · Filament 4 · Flutter |
 | [**Joshua Cooker**](https://github.com/Luc-Arthur/Projet-Joshua-Cooker-) | Site sur mesure pour un artiste culinaire : portfolio, recettes, événements et back-office complet | Laravel 12 · Livewire 3 · Alpine · GSAP |
 | [**LMS**](https://github.com/Luc-Arthur/lms) | Page de cours e-learning inspirée de Skillshare, rendue côté serveur | Laravel 12 · Blade · Tailwind 4 · Alpine |
